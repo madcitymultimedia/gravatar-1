@@ -33,8 +33,8 @@ rather than just a URL to that data. This saves you the extra step of having to 
 
   s.add_development_dependency('rspec', ">= 1.3.0")
   s.add_development_dependency('fakeweb', ">= 1.2.8")
-  s.add_development_dependency('i18n', '~> 0.6.0')
-  s.add_development_dependency('rake', '~> 0.9.2.2')
-  s.add_development_dependency('rdoc', '~> 3.11')
+  s.add_development_dependency('i18n', '~> 0.8.0')
+  s.add_development_dependency('rake', '~> 12.3.3')
+  s.add_development_dependency('rdoc', '~> 6.1')
   s.add_development_dependency('coveralls')
 end
